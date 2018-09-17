@@ -169,6 +169,8 @@ n <- 1:25
 s_n <- sapply(n, compute_s_n)
 plot(n, s_n)
 
+# FAMILIARIZE YOURSELF WITH apply, lapply, mapply, vapply, and replicate
+
 # -----------------------------------------------------------
 # Map
 # -----------------------------------------------------------
